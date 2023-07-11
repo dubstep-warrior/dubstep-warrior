@@ -5,8 +5,7 @@
 - 💞️ ******
 - 📫 ******
 --->
-
-![Dubstep Warrior's GitHub stats](https://github-readme-stats.vercel.app/api?username=dubstep-warrior&show_icons=true&theme=tokyonight&count_private=true)
+ 
 <img src="https://myreadme.vercel.app/api/embed/dubstep-warrior?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 <!---
